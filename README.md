@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+## Features
+1. User can serarch robofriends by typing keywords 
+2. Web and mobile responsive 
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
