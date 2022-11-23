@@ -1,6 +1,5 @@
 ## Features
 1. User can serarch robofriends by typing keywords 
-2. Web and mobile responsive 
 
 ## Getting Started with Create React App
 
